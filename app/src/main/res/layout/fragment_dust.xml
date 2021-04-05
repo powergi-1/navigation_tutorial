@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dustFragment"
+    tools:context="com.example.navigation_tutorial.fragment.DustFragment">
+
+    <TextView
+        android:id="@+id/dustFragmentTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="미세먼지 정보"
+        android:textSize="40dp"
+        android:layout_centerInParent="true"
+        />
+
+</RelativeLayout>

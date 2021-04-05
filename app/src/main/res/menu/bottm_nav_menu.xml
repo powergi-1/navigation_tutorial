@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/restaurantFragment"
+        android:title="식당"
+        android:icon="@drawable/ic_baseline_restaurant_24"
+        />
+    <item
+        android:id="@+id/shuttlebusFragment"
+        android:title="셔틀"
+        android:icon="@drawable/ic_baseline_directions_bus_24"
+        />
+    <item
+        android:id="@+id/dustFragment"
+        android:title="미세먼지"
+        android:icon="@drawable/ic_baseline_filter_drama_24"
+        />
+</menu>
